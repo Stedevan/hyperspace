@@ -29,7 +29,8 @@ section, summary, time, mark, audio, video {
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
-	display: block;}
+	display:block;}
+	
 
 
 
@@ -103,7 +104,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #312450;
+		background: #4c5024;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2539,7 +2540,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #312450;
+			color: #7bf18f;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -3049,6 +3050,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				
+				
 			}
 
 		.spotlights > section > .content {
@@ -3141,6 +3143,7 @@ input, select, textarea {
 			.spotlights > section > .image {
 				height: 50vh;
 				min-height: 15em;
+				
 			}
 
 			.spotlights > section > .content {
@@ -3262,7 +3265,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1-alt {
-			background-color: #000000;
+			background-color: #190933;
 		}
 
 		.wrapper.style2 {
@@ -3683,7 +3686,7 @@ input, select, textarea {
 					transition-delay: 2.25s;
 				}
 
-				#sidebar nav > ul > li:nth-child(11) {
+				#sidebar nav > ul > Sidebarli:nth-child(11) {
 					-moz-transition-delay: 2.45s;
 					-webkit-transition-delay: 2.45s;
 					-ms-transition-delay: 2.45s;
@@ -3900,6 +3903,7 @@ input, select, textarea {
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+	  
 	}
 
 		#intro p {
